@@ -1,4 +1,4 @@
-# Hi i'm Osakanee! 🍵
+# Hi i'm Osakanee! 🌸
 - I'm working on programming more and more until i get better
 - For now I only use python, but I'm learning how to be a frontend developer and a rust user
   
