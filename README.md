@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Osakanee/Osakanee/87b47db7fea783ca4aec2f1b036b66086ee9464c/assets/poster.jpg" width="25%" align="right" />
+<img src="https://raw.githubusercontent.com/Osakanee/Osakanee/refs/heads/main/assets/poster2.jpg" width="20%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=4000&pause=300&color=F0009B&center=true&multiline=true&repeat=false&width=435&lines=Hey!;I'm+Osakanee%2C+a+Pok%C3%A9mon+trainer!+%F0%9F%8D%B0" width="70%" /></a></a>
 <br><br>
 
