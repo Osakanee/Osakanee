@@ -10,4 +10,5 @@ Tools & Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
--# Currently learning: GDScript, Rust and more modules on python
+----
+Currently learning: GDScript, Rust and more modules on python
