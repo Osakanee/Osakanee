@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/Osakanee/Osakanee/blob/87b47db7fea783ca4aec2f1b036b66086ee9464c/assets/poster.jpg" width="25%" align="right" />
-  <br>
-  <h1>Hi i'm Osakanee! 🍰</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF47F7&width=435&lines=Hi%2C+I'm+Osakanee!+%F0%9F%8D%B0" alt="Typing SVG" /></a>
+  <br><br>
   <pre>
   -
   🏫 Pre-junior in the programming section.
