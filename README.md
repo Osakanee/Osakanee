@@ -7,8 +7,8 @@
   🏫 Pre-junior in the programming section.
   📝 Currently learning: GDScript, Rust and more modules on python
   🎮 Arts ⁎ Games ⁎ Anime ⁎ Languages
-  -
-  </pre>
+  -</pre>
+
   
    ### My objective is to one day focus on backend, plugins and games
    <h2>Tools & Languages</h2>
