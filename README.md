@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/Osakanee/Osakanee/blob/87b47db7fea783ca4aec2f1b036b66086ee9464c/assets/poster.jpg" width="25%" align="right" />
+  <br>
   <h1>Hi i'm Osakanee! 🍰</h1>
   <pre>
   -
