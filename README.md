@@ -9,7 +9,7 @@
 <br>
 <a href="https://www.picgifs.com/mini-graphics/"><img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-319734.gif" border="0" align="center" height="40" /></a>
   
-   <h4> My dream is to one day join the programming industry on backend, plugins and games </h4>
+   <h4> My dream is to one day join the programming industry on backend, plugins, mods and games </h4>
 </div>
 <div align="center">
 <p align="center">
