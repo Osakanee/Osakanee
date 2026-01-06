@@ -9,13 +9,13 @@
 <br>
 <a href="https://www.picgifs.com/mini-graphics/"><img src="https://www.picgifs.com/mini-graphics/mini-graphics/pokemon/mini-graphics-pokemon-319734.gif" border="0" align="center" height="40" /></a>
   
-   <h4> My dream is to one day join the programming industry on backend, plugins, mods and games </h4>
+   <h4> My dream is to one day join the programming industry on backend, plugins and games </h4>
 </div>
-<div align="center">
-<p align="center">
+
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
